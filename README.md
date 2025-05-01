@@ -60,3 +60,57 @@ In conclusion, the main objective of this project was to find the most suited mo
 
 This project was implemented and explored by Shreya Upadhyay for academic purposes
 
+
+
+HOW TO SET UP AND RUN THIS PROJECT  
+
+STEP 1) Clone the Repository
+git clone https://github.com/Shreya-3110/Credit-Card-Fraud-Detection-Using-Machine-Learning.git
+cd Credit-Card-Fraud-Detection-Using-Machine-Learning
+
+STEP 2) Install Required Libraries
+
+pip install -r requirements.txt
+If requirements.txt is not available, manually install:
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+STEP 3)  Run the Notebook
+Open the Jupyter notebool:   jupyter notebook credit_card_fraud_detection.ipynb
+
+
+
+DEPENDENCIES
+
+1) Python 3.6 or higher
+
+2) Jupyter Notebook
+
+3) Scikit-learn
+
+4) NumPy
+
+5) Pandas
+
+6) Matplotlib
+
+7) Seaborn
+
+
+DATA SET 
+
+This project uses the Credit Card Fraud Detection dataset from Kaggle.
+You can download it and place it in the root folder before running the notebook.
+
+
+SCREENSHOT 
+
+
+
+
+
+
+
+
+
+
