@@ -1,5 +1,9 @@
 # Credit-Card-Fraud-Detection-Using-Machine-Learning
 
+## 🧠 Problem Statement
+
+Credit card companies face massive losses due to fraudulent transactions. Traditional rule-based systems are not effective enough.
+
  ## ABSTRACT
 Credit card fraud is a significant problem, with billions of dollars lost each year. Machine learning can be used to detect credit card fraud by identifying patterns that are indicative of fraudulent transactions. Credit card fraud refers to the physical loss of a credit card or the loss of sensitive credit card information. Many machinelearning algorithms can be used for detection. This project proposes to develop a machine-learning model to detect credit card fraud. The model will be trained on a dataset of historical credit card transactions and evaluated on a holdout dataset of unseen transactions.
 <br>
@@ -43,6 +47,24 @@ of each Attribute, ”Amount” is the amount of each transaction, and the final
 2. Logistic Regression (L.R.)
 3. Support Vector Machine (SVM)
 4. Decision Tree (D.T.)
+
+
+##technologies used 
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## 📁 Dataset
+
+- The dataset used is the **Credit Card Fraud Detection** dataset available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+- It contains transactions made by European cardholders in September 2013.
+- Features: 30 columns (28 anonymized features, `Time`, `Amount`, and `Class` where 1 = Fraud, 0 = Not Fraud).
+
+
 
 
 <br>
@@ -97,17 +119,37 @@ DEPENDENCIES
 7) Seaborn
 
 
-DATA SET 
-
-This project uses the Credit Card Fraud Detection dataset from Kaggle.
-You can download it and place it in the root folder before running the notebook.
+📊 Results
 
 
-SCREENSHOT 
+Model Used: (e.g., Logistic Regression, Random Forest, XGBoost)
+
+Accuracy: __%
+
+Precision: __%
+
+Recall: __%
+
+F1-Score: __%
+
+Confusion Matrix:
+
+True Positives: __
+
+False Positives: __
+
+True Negatives: __
+
+False Negatives: __
+
+
+📈 Visualizations
 
 
 
 
+![Confusion Matrix]()
+![ROC Curve](screenshots/roc_curve.png)
 
 
 
