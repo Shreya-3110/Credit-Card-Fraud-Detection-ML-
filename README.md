@@ -119,36 +119,10 @@ DEPENDENCIES
 7) Seaborn
 
 
-📊 Results
-
-
-Model Used: (e.g., Logistic Regression, Random Forest, XGBoost)
-
-Accuracy: __%
-
-Precision: __%
-
-Recall: __%
-
-F1-Score: __%
-
-Confusion Matrix:
-
-True Positives: __
-
-False Positives: __
-
-True Negatives: __
-
-False Negatives: __
 
 
 📈 Visualizations
-
-
-
-
-![Confusion Matrix] ()
+[Confusion Matrix] (confusion matrix.png)
 [classification Report](classification report.png)
 
 
